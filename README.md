@@ -1,1 +1,1 @@
-# My-Cpp-Projects
+# Mini-Cpp-Projects
